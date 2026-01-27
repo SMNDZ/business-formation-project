@@ -8,23 +8,17 @@ Business formation is an important indicator of economic activity. Understanding
 
 This project explores the U.S. Census Bureau Business Formation Statistics dataset to understand patterns in business formation activity and determine whether simple modeling techniques can help explain or predict these trends.
 
----
-
 ## Libraries Used
 
 - pandas  
 - matplotlib  
 - scikit-learn  
 
----
-
 ## Files in This Repository
 
 - **business_formation_analysis.ipynb** — Main analysis notebook following the CRISP-DM process
 - **BFS-mf.csv** — Dataset used for the analysis
 - **README.md** — Project overview and summary
-
----
 
 ## Business Questions Explored
 
@@ -33,8 +27,6 @@ This project explores the U.S. Census Bureau Business Formation Statistics datas
 3. Which industries contribute the most to business formation activity?
 4. How well can a simple model predict business formation values?
 
----
-
 ## Summary of Findings
 
 - Business formation activity shows noticeable spikes and drops across time periods.
@@ -42,15 +34,11 @@ This project explores the U.S. Census Bureau Business Formation Statistics datas
 - Certain categories contribute far more to overall business formation activity than others.
 - A simple linear regression model captures general patterns but is not highly predictive, suggesting many real-world factors are not present in the dataset.
 
----
-
 ## Blog Post
 
 A full stakeholder-friendly explanation of this analysis can be found here:
 
 👉 **https://medium.com/@siggraph21/predicting-business-formation-trends-76172e166f89**
-
----
 
 ## Acknowledgements
 
