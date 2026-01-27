@@ -48,7 +48,7 @@ This project explores the U.S. Census Bureau Business Formation Statistics datas
 
 A full stakeholder-friendly explanation of this analysis can be found here:
 
-👉 **{https://medium.com/@siggraph21/predicting-business-formation-trends-76172e166f89}**
+👉 **https://medium.com/@siggraph21/predicting-business-formation-trends-76172e166f89**
 
 ---
 
