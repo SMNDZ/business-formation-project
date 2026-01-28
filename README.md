@@ -16,7 +16,7 @@ This project explores the U.S. Census Bureau Business Formation Statistics datas
 
 ## Files in This Repository
 
-- **business_formation_analysis.ipynb** — Main analysis notebook following the CRISP-DM process
+- **business_formation_project.ipynb** — Main analysis notebook following the CRISP-DM process
 - **BFS-mf.csv** — Dataset used for the analysis
 - **README.md** — Project overview and summary
 
