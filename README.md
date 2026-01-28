@@ -23,8 +23,8 @@ This project explores the U.S. Census Bureau Business Formation Statistics datas
 ## Business Questions Explored
 
 1. How does business formation activity change over time?
-2. How are business formation values distributed overall?
-3. Which industries contribute the most to business formation activity?
+2. Which industries contribute the most to business formation activity?
+3. Which locations show the highest business formation activity?
 4. How well can a simple model predict business formation values?
 
 ## Summary of Findings
